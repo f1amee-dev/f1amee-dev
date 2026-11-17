@@ -1,15 +1,15 @@
 
       <svg
         width="450"
-        height="150"
-        viewBox="0 0 450 150"
+        height="170"
+        viewBox="0 0 450 170"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">GitHub contributions, Rank: C</title>
-        <desc id="descId">Total Contributions: 2955, Total PRs: 14, Contributed to (last year): 8</desc>
+        <title id="titleId">GitHub contributions, Rank: B</title>
+        <desc id="descId">Total Contributions: 2955, Total Commits  : 2236, Total PRs: 285, Contributed to (last year): 9</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 232.4697658484693;
+        stroke-dashoffset: 149.65944973440332;
       }
     }
   
@@ -144,7 +144,7 @@
         >
           
     <g data-testid="rank-circle"
-          transform="translate(365, 25)">
+          transform="translate(365, 35)">
         <circle class="rank-circle-rim" cx="-10" cy="8" r="40" />
         <circle class="rank-circle" cx="-10" cy="8" r="40" />
         <g class="rank-text">
@@ -170,16 +170,27 @@
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
       
+      <text class="stat  bold"  y="12.5">Total Commits:</text>
+      <text
+        class="stat  bold"
+        x="204.01"
+        y="12.5"
+        data-testid="commits"
+      >2236</text>
+    </g>
+  </g><g transform="translate(0, 50)">
+    <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
+      
       <text class="stat  bold"  y="12.5">Total PRs:</text>
       <text
         class="stat  bold"
         x="204.01"
         y="12.5"
         data-testid="prs"
-      >14</text>
+      >285</text>
     </g>
-  </g><g transform="translate(0, 50)">
-    <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
+  </g><g transform="translate(0, 75)">
+    <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
       
       <text class="stat  bold"  y="12.5">Contributed to (last year):</text>
       <text
@@ -187,7 +198,7 @@
         x="204.01"
         y="12.5"
         data-testid="contribs"
-      >8</text>
+      >9</text>
     </g>
   </g>
     </svg>
