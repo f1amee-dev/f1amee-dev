@@ -2,7 +2,7 @@
 
 I'm a motivated developer from Višnjan, Croatia. I work in a lot of fields and love to experience new things. I build desktop and web apps and take on freelance work.
 
-[![Portfolio](assets/portfolio.svg)](https://filipb.dev) [![Email me](assets/email.svg)](mailto:hello@filipb.dev) [![LinkedIn](assets/linkedin.svg)](https://www.linkedin.com/in/filip-persuric-bernobic)
+<a href="https://filipb.dev"><kbd> Portfolio ↗ </kbd></a> &nbsp; <a href="mailto:hello@filipb.dev"><kbd> Email me ↗ </kbd></a> &nbsp; <a href="https://www.linkedin.com/in/filip-persuric-bernobic"><kbd> LinkedIn ↗ </kbd></a>
 
 I work with `TypeScript`, `Rust`, `Go`, and `Svelte`.
 
@@ -10,13 +10,11 @@ I work with `TypeScript`, `Rust`, `Go`, and `Svelte`.
 
 | Project | What it does |
 | :--- | :--- |
-| **[MultiTrim ↗](https://multitrim.app)** | Trims silence from batches of audio files without re-encoding. Runs on macOS, Windows, and Linux. |
-| **[Rasporedić ↗](https://raspored.gssjd.org)** | A school timetable that works offline, with lessons and classrooms. Used in 4 schools. |
-| **[Pyros ↗](https://team-croatia.com.hr/en/pyros)** | I'm the lead inventor of this wildfire prevention project. It combines satellite vegetation maps with a model tested on past fires. |
-| **[JaviSe ↗](https://filipb.dev/#work)** | Students sign up for oral exams and teachers manage the queue. Students also earn XP and keep streaks. |
-| **[Team Croatia ↗](https://team-croatia.com.hr/en)** | I built our team website, including sponsor stories, press coverage, and a Korea diary in 6 languages. |
-
-<sub>I'm still working on Pyros's live risk ranking and LoRa sensor network. The JaviSe link opens its section on my portfolio.</sub>
+| **[MultiTrim ↗](https://multitrim.app)** | Batch audio silence trimming without re-encoding. macOS, Windows, Linux. |
+| **[Rasporedić ↗](https://raspored.gssjd.org)** | Offline school timetables. Used in 4 schools. |
+| **[Pyros ↗](https://team-croatia.com.hr/en/pyros)** | Wildfire prevention using satellite vegetation maps. Lead inventor. |
+| **[JaviSe ↗](https://filipb.dev/#work)** | Oral exam sign-ups with teacher queues, XP, and streaks. |
+| **[Team Croatia ↗](https://team-croatia.com.hr/en)** | Our team website and Korea diary, in 6 languages. |
 
 ## Along the way
 
@@ -27,10 +25,6 @@ I work with `TypeScript`, `Rust`, `Go`, and `Svelte`.
 ## On GitHub
 
 [![GitHub contribution stats](assets/stats.svg)](https://github.com/f1amee-dev)
-
-<sub>Public contribution stats refresh automatically every six hours.</sub>
-
-[![Filip's recent public GitHub contribution activity](https://github-readme-activity-graph.vercel.app/graph?username=f1amee-dev&bg_color=00000000&color=8b949e&line=3fb950&point=3fb950&area=true&area_color=238636&hide_border=true&hide_title=true&radius=0)](https://github.com/f1amee-dev)
 
 ---
 

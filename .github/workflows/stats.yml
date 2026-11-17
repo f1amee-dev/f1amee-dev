@@ -25,7 +25,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=f1amee-dev&include_all_commits=true&show_icons=false&hide=stars,issues&theme=github_dark&hide_border=true&disable_animations=true&custom_title=GitHub%20contributions
+          options: username=f1amee-dev&include_all_commits=true&show_icons=false&show=contributions&hide=stars,issues,commits&rank_icon=github&number_format=long&theme=github_dark&hide_border=true&disable_animations=true&custom_title=GitHub%20contributions
           path: assets/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: 'true'
